@@ -1,0 +1,18 @@
+.cetagory img {
+    height: 100px;
+}
+
+.slider-color {
+    background-color: #fceae8;
+    ;
+}
+
+.btn-all {
+    background-image: linear-gradient(to bottom, #FF589B 0%, #FF136F 100%);
+    color: #fff;
+    margin: 5px;
+    border: none;
+    border-radius: 8px;
+    padding: 9px 25px;
+    cursor: pointer;
+}
